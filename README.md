@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique! 👋
+Henrique Barcelos
 
 ### 🐍 Python Developer | Backend | Industrial Automation
 
