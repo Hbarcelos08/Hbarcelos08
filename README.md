@@ -26,3 +26,18 @@ class HenriqueBarcelos:
 
 me = HenriqueBarcelos()
 me.say_hi()
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 Currently studying Analysis and System Development at Newton Paiva
+ 
+🐍 Focused on developing modern applications and automations in Python
+
+📡 Passionate about IoT solutions
+
+⚡ Fun fact: I believe clean code is as important as working code
+
+💡 Philosophy: "Automate everything that can be automated"
+
+<br clear="both">
+
