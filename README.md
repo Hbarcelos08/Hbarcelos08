@@ -62,24 +62,28 @@ me.say_hi()
 <div align="center">
 
 ### 🐍 Main Language
-![Python](https://img.shields.io/badge/Python-BD93F9?style=for-the-badge&logo=python&logoColor=282A36)
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+</a>
 
 ### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-FF79C6?style=for-the-badge&logo=git&logoColor=282A36)
-![GitHub](https://img.shields.io/badge/GitHub-44475A?style=for-the-badge&logo=github&logoColor=F8F8F2)
-![MQTT](https://img.shields.io/badge/MQTT-50FA7B?style=for-the-badge&logo=eclipse-mosquitto&logoColor=282A36)
-![VS Code](https://img.shields.io/badge/VS_Code-8BE9FD?style=for-the-badge&logo=visual-studio-code&logoColor=282A36)
 
-### 📚 Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-FFB86C?style=for-the-badge&logo=pandas&logoColor=282A36)
-![NumPy](https://img.shields.io/badge/NumPy-FF5555?style=for-the-badge&logo=numpy&logoColor=F8F8F2)
-![Flask](https://img.shields.io/badge/Flask-6272A4?style=for-the-badge&logo=flask&logoColor=F8F8F2)
-![FastAPI](https://img.shields.io/badge/FastAPI-50FA7B?style=for-the-badge&logo=fastapi&logoColor=282A36)
-
-### 💾 Databases
-![SQLite](https://img.shields.io/badge/SQLite-BD93F9?style=for-the-badge&logo=sqlite&logoColor=282A36)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8BE9FD?style=for-the-badge&logo=postgresql&logoColor=282A36)
-![MySQL](https://img.shields.io/badge/MySQL-FFB86C?style=for-the-badge&logo=mysql&logoColor=282A36)
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" height="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mqtt.org/" target="_blank">
+  <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" width="70" height="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="70" height="70"/>
+</a>
 
 </div>
 
@@ -102,26 +106,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquebarcelos&bg_color=282A36&color=BD93F9&line=FF79C6&point=FFB86C&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriquebarcelos&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquebarcelos/henriquebarcelos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquebarcelos/henriquebarcelos/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/henriquebarcelos/henriquebarcelos/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
