@@ -27,6 +27,6 @@ Henrique Barcelos
 ---
 
 ## 📬 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[https://www.linkedin.com/in/henriquebarcelos144/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 
 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
