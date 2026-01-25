@@ -34,7 +34,7 @@ me.say_hi()
 
 - 🐍 **Focused on** developing modern applications and automations in **Python**
 
-- 📡 **Passionate about** IoT solutions using **MQTT** protocol
+- 📡 **Passionate about** IoT solutions
 
 - ⚡ **Fun fact:** I believe clean code is as important as working code
 
