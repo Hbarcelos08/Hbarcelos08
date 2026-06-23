@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header" width="100%"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+%F0%9F%9B%A1%EF%B8%8F;Aspiring+Blue+Team+Analyst;Future+Purple+Team;Automating+defenses%2C+one+script+at+a+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+%F0%9F%9B%A1%EF%B8%8F;Aspiring+Blue+Team+Analyst;Future+Purple+Team;Automating+defenses" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -20,8 +20,7 @@ class HenriqueBarcelos:
         self.name        = "Henrique Barcelos"
         self.role        = "Aspiring Blue Team Analyst | Future Purple Team"
         self.background  = "Industrial Automation Technician"
-        self.currently   = ["Google Cybersecurity Professional Certificate",
-                             "CompTIA Security+ (self-study)"]
+        self.currently   = ["Google Cybersecurity Professional Certificate"]
         self.location    = "Nova Lima, MG - Brazil"
         self.focus       = ["Cybersecurity", "Blue Team"]
 
@@ -32,11 +31,11 @@ me = HenriqueBarcelos()
 me.say_hi()
 ```
 
-- 🛡️ **Currently studying:** Google Cybersecurity Professional Certificate · CompTIA Security+ (self-study)
+- 🛡️ **Currently studying:** Google Cybersecurity Professional Certificate · CompTIA Security+ 
 - 🔍 **Focused on:** Cybersecurity / Blue Team
-- ⚙️ **Background:** Industrial Automation Technician — bringing real-world systems thinking into cyber
+- ⚙️ **Background:** Industrial Automation Technician
 - 💡 **Fun fact:** I'd rather automate detecting a problem than manually catch it
-- 🧠 **Philosophy:** *"Automate everything that can be automated — including your defenses."*
+- 🧠 **Philosophy:** *"Automate everything that can be automated, including your defenses."*
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" hidden/>
 
