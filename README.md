@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+%F0%9F%9B%A1%EF%B8%8F;Aspiring+Blue+Team+Analyst;Future+Purple+Team;Automating+defenses" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hbarcelos08&label=Profile%20Views&color=00FF9C&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🛡️ About Me
