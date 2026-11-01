@@ -1,39 +1,35 @@
-[README.md](https://github.com/user-attachments/files/29247960/README.md)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header" width="100%"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+%F0%9F%9B%A1%EF%B8%8F;Aspiring+Blue+Team+Analyst;Future+Purple+Team;Automating+defenses" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+%F0%9F%8E%AF;Aspiring+Red+Team+Analyst;Offensive+Security+Enthusiast;Automating+My+Own+Lab" alt="Typing SVG" /></a>
 </h1>
 
 ---
 
-### 🛡️ About Me
+### 🎯 About Me
 
 ```python
 class HenriqueBarcelos:
     def __init__(self):
         self.name        = "Henrique Barcelos"
-        self.role        = "Aspiring Blue Team Analyst | Future Purple Team"
+        self.role        = "Aspiring Cybersecurity Analyst | Red Team / Pentest Focus"
+        self.studying_at = "FIAP, Cybersecurity"
         self.background  = "Industrial Automation Technician"
-        self.currently   = ["Google Cybersecurity Professional Certificate"]
-        self.location    = "Nova Lima, MG - Brazil"
-        self.focus       = ["Cybersecurity", "Blue Team"]
+        self.location    = "Belo Horizonte, MG, Brazil"
+        self.focus       = ["Offensive Security", "Red Team", "Active Directory"]
 
     def say_hi(self):
-        print("Thanks for stopping by! Always learning, always defending. 🛡️")
+        print("Thanks for stopping by! Always learning, always breaking things to understand them. 🎯")
 
 me = HenriqueBarcelos()
 me.say_hi()
 ```
 
-- 🛡️ **Currently studying:** Google Cybersecurity Professional Certificate · CompTIA Security+ 
-- 🔍 **Focused on:** Cybersecurity / Blue Team
+- 🎯 **Currently studying:** Offensive Security
+- 🔍 **Focused on:** Offensive Security / Red Team / Pentest
 - ⚙️ **Background:** Industrial Automation Technician
-- 💡 **Fun fact:** I'd rather automate detecting a problem than manually catch it
-- 🧠 **Philosophy:** *"Automate everything that can be automated, including your defenses."*
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" hidden/>
+- 🧪 **Practicing on:** TryHackMe, personal lab with Kali Linux and Metasploitable
+- 🧠 **Philosophy:** *"You cannot defend what you do not understand how to attack."*
 
 ---
 
@@ -60,14 +56,7 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=python,linux,bash" />
 </p>
 
-<p align="center"><b>Security & Detection</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-D32F2F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge" />
+<p align="center"><b>Main Tools</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,bash" /> </p> <p align="center"><b>Offensive Security</b></p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-D32F2F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> </p> <p align="center"><b>Dev Tools</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 </p>
 
 <p align="center"><b>Dev Tools</b></p>
@@ -96,8 +85,8 @@ me.say_hi()
 
 ### 🔐 Security Quote
 
-> *"Security is a process, not a product."*
-> — Bruce Schneier
+> *"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room."*
+> Gene Spafford
 
 ---
 
@@ -115,9 +104,7 @@ me.say_hi()
 
 <p align="center">
   <code>$ whoami</code><br/>
-  <code>> henrique — defending systems, one detection rule at a time</code>
+  <code>> henrique, breaking things to understand how to defend them</code>
 </p>
-
-<p align="center"><i>"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room."</i> — Gene Spafford</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
