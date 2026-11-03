@@ -16,7 +16,7 @@ class HenriqueBarcelos:
         self.studying_at = "FIAP, Cybersecurity"
         self.background  = "Industrial Automation Technician"
         self.location    = "Belo Horizonte, MG, Brazil"
-        self.focus       = ["Offensive Security", "Red Team", "Active Directory"]
+        self.focus       = ["Offensive Security", "Red Team"]
 
     def say_hi(self):
         print("Thanks for stopping by! Always learning, always breaking things to understand them. 🎯")
